@@ -1,0 +1,21 @@
+body{
+    background-image: url("img/st\ Malo\ mer.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+.fPage{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 57%, rgba(208,255,252,1) 94%, rgba(130,255,247,1) 100%, rgba(0,255,239,1) 100%);
+    width:350px;
+    position:sticky;
+    display: grid;
+    overflow-y: scroll;
+    max-height: 500px;
+    height:500px;
+    left: 500px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
